@@ -19,8 +19,11 @@ a.	From the Bluemix catalog menu search for “dashdb” <br>
 b.	Click on the dashDB Icon   <br>
 c.	Accept the default values and rename “Service name:” to ‘DS_Sales_DataStore’ <br>
 d.	Select “Entry Pricing Plan” (default) and click “Create” on the right hand panel. <br>
-###The lab exercise uses a sample database provisioned by dashDB service. <br>
+The lab exercise uses a sample database provisioned by dashDB service. <br>
+
+###Data Science Experience
 Provision Spark Service in Data Science Experience <br>
+
 1.	Login to IBM Data Science Experience @ http://datascience.ibm.com/ <br>
 2.	Create a new Notebook <br>
 a.	Click on ‘Start a Notebook” <br> 
