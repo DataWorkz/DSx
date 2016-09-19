@@ -8,9 +8,9 @@ IBM Data Science Experience is an interactive, collaborative, cloud-based enviro
 
 This lab exercise uses an IPython Notebook in Data Science Experience to connect with dashDB, explores sales, product data and analyze sales performance for a specific product line. Pixiedust, a Python based visualization package is used to visualize the results.
 
-Steps for the Lab
+##Steps for the Lab
 
-Provision dashDB 
+Provision dashDB <br>
 1.	Login to IBM Bluemix
 a.	For existing accounts use  https://console.ng.bluemix.net/login
 b.	Sign-up for a free trial account at https://console.ng.bluemix.net/registration/
