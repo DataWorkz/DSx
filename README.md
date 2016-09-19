@@ -4,6 +4,8 @@ Analyze sales data in dashDB from IBM Data Science Experience using Spark based 
 #Introduction
 IBM Data Science Experience is an interactive, collaborative, cloud-based environment where data scientists can use multiple tools to drive analytics and derive insights. Data Scientists can use Python, R, or Scala in Jupyter Notebooks already connected to Spark or RStudio for open source R computing environment.
 
+<img src="DSX1.png">
+
 This lab exercise uses an IPython Notebook in Data Science Experience to connect with dashDB, explores sales, product data and analyze sales performance for a specific product line. Pixiedust, a Python based visualization package is used to visualize the results.
 
 Steps for the Lab
